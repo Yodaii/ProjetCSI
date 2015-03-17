@@ -8,7 +8,7 @@
 			<meta http-equiv="X-UA-Compatible" content="IE=edge">
 			<meta name="viewport" content="width=device-width, initial-scale=1">
 			<title>Bootstrap 101 Template</title>
-			<link href="bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">
+			<link href="Framework/bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">
 		  </head>
 		  <body>
 END;
@@ -46,7 +46,7 @@ END;
 	function generer_fin(){
 		echo <<< END
 					<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-					<script src="bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
+					<script src="Framework/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
 				</body>
 			</html>
 END;
